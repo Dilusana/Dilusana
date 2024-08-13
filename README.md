@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Undergraduate Bsc.(Hons) Business Computing & Data Analytics<br><br>
+I'm currently an undergraduate pursuing a BSc.(Hons) in Business Computing & Data Analytics. My academic journey has equipped me with a solid foundation in web development, database design, and graphic design. I am passionate about leveraging data to drive business insights and decision-making, and I enjoy creating visually compelling and user-friendly digital solutions. 
 
 
 # 💻 Tech Stack:
@@ -9,7 +9,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dilusana&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilusana&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Dilusana&icon=0&color=0)](https://visitcount.itsvg.in)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
